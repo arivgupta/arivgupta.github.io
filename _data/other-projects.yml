@@ -20,13 +20,17 @@
 - name: Cheif Financial Officer & Teeny Makerspace
   url: https://www.teenymakerspace.com
   description: As CFO, I help forecast the economic take-in of the non-profit and how we can bring in more support in the future. I help chiefly in the design for fundraising and helps gather donations for the program. I have managed a couple individual volunteers under him at events and know how to optimize each and every person on my teams skills to the benefit of the team.
-
-
   used:
     - thing: Jan 2019 - Present
+    
+- name: Creator @ Project Shine
+  url: https://www.lightuptable.wordpress.com
+  description: A light-up table I designed using a NeoPixel Matrix sourced from the manufacturer. Currently creating a model connected to a web server allowing users to have family members control the lights on the table and write messages on it from afar. Learned commitment, responsibility, the importance of time, and marketing dos and donts.
+  used:
+    - thing: Dec 2019 - Present
 
 - name: Founder / Coach @ MHMS Public Speaking Club
   url: https://www.mhmschool.org
-  description: Founded the Public Speaking Club at my middle school with the vision to bring the gift of Public Speaking to the people who could benefit so much from it... middle schoolers! Taught over 20 students and received positive feedback from them and their parents.
+  description: Founded the Public Speaking Club at my middle school with the vision to bring the gift of Public Speaking to the people who could benefit so much from it... middle schoolers! <b> Taught over 20 students and received positive feedback from them and their parents.
   used:
     - thing: Apr 2020 - Present
