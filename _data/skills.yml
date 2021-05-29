@@ -1,33 +1,31 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+  - item: Cross Functional Leadership
+  - item: Teamwork / Collaboration
+  - item: Emotional Intelligence
+  - item: Project Management
+  - item: Public Speaking
+  - item: Organisation
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Social Media Marketing
+  - item: Computational Thinking
+  - item: Video Editing
+  - item: Photography
+  - item: Writing
+  - item: Sales
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Organisational Productivity
+  - item: Creative Problem-Solving
+  - item: Talent Recruitment
+  - item: Business Strategy
+  - item: Product Design
+  - item: Operations
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+# design:
+#  - item: Sketch
+#  - item: InDesign
+#  - item: InVision
+#  - item: Prototyping
+#  - item: Wireframing
+#  - item: User Testing
