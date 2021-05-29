@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Ariv Gupta
+title: Ariv Gupta
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+url: https://arivgupta.com/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: arivgups@gmail.com
+cover: https://arivgupta.github.io/img/og.png
+logo: https://arivgupta.github.io/img/emojis/technologist.png
+resume: https://arivgupta.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:arivgups@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/ArivGupta
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/arivgups
+  - title: unsplash
+    url: http://unsplash.com/@arivgupta
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/arivgupta
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/arivgupta
 
 # Build settings
 markdown: kramdown
