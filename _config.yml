@@ -15,15 +15,17 @@ social:
     url: https://blog.arivgupta.com
   - title: podcast
     url: https://podcast.arivgupta.com
+  - title: medium
+    url: https://writing.arivgupta.com
   - title: unsplash
     url: https://photos.arivgupta.com
   - title: github
     url: https://code.arivgupta.com
-  - title: instagram
+  - title: ig
     url: https://ig.arivgupta.com
-  - title: twitter
+  - title: twt
     url: https://twt.arivgupta.com
-  - title: linkedin
+  - title: in
     url: https://in.arivgupta.com
 #Google Analytics
 google_analytics: UA-184194234-1
