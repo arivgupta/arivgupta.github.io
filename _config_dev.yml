@@ -23,6 +23,8 @@ social:
     url: https://twitter.com/ArivGupta
   - title: linkedin
     url: https://www.linkedin.com/in/arivgupta
+#Google Analytics
+google_analytics: UA-184194234-1
 
 # Build settings
 markdown: kramdown
