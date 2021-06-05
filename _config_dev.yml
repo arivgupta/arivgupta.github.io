@@ -12,21 +12,21 @@ social:
   - title: email
     url: mailto:arivgups@gmail.com
   - title: blog
-    url: https://blog.arivgupta.com
+    url: http://blog.arivgupta.com
   - title: podcast
-    url: https://podcast.arivgupta.com
+    url: http://podcast.arivgupta.com
   - title: writing
     url: https://writing.arivgupta.com
   - title: photos
-    url: https://photos.arivgupta.com
+    url: http://photos.arivgupta.com
   - title: code
-    url: https://code.arivgupta.com
+    url: http://code.arivgupta.com
   - title: ig
-    url: https://ig.arivgupta.com
+    url: http://ig.arivgupta.com
   - title: twt
-    url: https://twt.arivgupta.com
+    url: http://twt.arivgupta.com
   - title: in
-    url: https://in.arivgupta.com
+    url: http://in.arivgupta.com
     
 #Google Analytics
 google_analytics: UA-184194234-1
